@@ -1,0 +1,2257 @@
+[
+    {
+        "productId": 12,
+        "productName": "App Store & iTunes UK",
+        "global": false,
+        "senderFee": 410,
+        "senderFeePercentage": 0,
+        "discountPercentage": 2.9,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "GBP",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            25,
+            50
+        ],
+        "fixedSenderDenominations": [
+            26918.22,
+            53836.44
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "25.0": 26918.22,
+            "50.0": 53836.44
+        },
+        "metadata": {},
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/08ed62a9-52d3-47d2-9ad8-ae27d0a3f3a2.png"
+        ],
+        "brand": {
+            "brandId": 3,
+            "brandName": "App Store & iTunes"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Go to apple.com/redeem to add to your Apple Account balance.",
+            "verbose": "Use it for purchases at any Apple Store location, on the Apple Store-app, apple.com, the App Store, iTunes, Apple Music, Apple TV, Apple News, Apple Books, Apple Arcade, iCloud, and other Apple properties. &#13;Use the Apple Gift Card for App Store, iTunes, iPhone, iPad, Air-pods, Mac book, accessories, and more. &#13;No returns or refunds on Apple Gift Cards. Terms apply. &#13;The Apple Gift Card can be used two ways: &#13;For online purchases, go to apple.com/redeem to add to your Apple Account balance. &#13;Bring this email to any Apple Store location. &#13;Beware of gift card scams. Do not share your code. Terms & Conditions Valid only for U.S. transactions in Apple properties. For assistance, visit support.apple.com/giftcard or call 1-800-275-2273. Not redeemable at Apple resellers or for cash, and no resale, refunds, or exchanges, except as required by law. Apple is not responsible for unauthorized use. Terms apply"
+        }
+    },
+    {
+        "productId": 16234,
+        "productName": "Binance GB",
+        "global": false,
+        "senderFee": 0,
+        "senderFeePercentage": 6.5,
+        "discountPercentage": 0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            50,
+            100
+        ],
+        "fixedSenderDenominations": [
+            41000,
+            82000
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "50.0": 41000,
+            "100.0": 82000
+        },
+        "metadata": {},
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/e9333314-918b-4339-b495-854b7f714376.png"
+        ],
+        "brand": {
+            "brandId": 320,
+            "brandName": "Binance"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "To redeem, visit https://www.binance.com/en/gift-card",
+            "verbose": "To redeem, visit https://www.binance.com/en/gift-card or Download the Binance App from https://binance.com/en/download. Create an account, then tap the 'Profile Icon' on top left corner, tap Gift Card: tap Receive, tap Redeem Crypto, enter Gift Card code (16-digit alphanumeric sequence. For more questions, please see Gift Cards FAQ"
+        }
+    },
+    {
+        "productId": 17070,
+        "productName": "Bitcoin GB (Binance)",
+        "global": false,
+        "senderFee": 410,
+        "senderFeePercentage": 0,
+        "discountPercentage": 0,
+        "denominationType": "RANGE",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": 5,
+        "maxRecipientDenomination": 100,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": 4100,
+        "maxSenderDenomination": 82000,
+        "fixedRecipientDenominations": [],
+        "fixedSenderDenominations": null,
+        "fixedRecipientToSenderDenominationsMap": null,
+        "metadata": null,
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/binance-btc-e405dfd6-d2fa-4fee-83e7-83aa5b013e42.jpeg"
+        ],
+        "brand": {
+            "brandId": 320,
+            "brandName": "Binance"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "To redeem, visit https://www.binance.com/en/gift-card",
+            "verbose": "To redeem, visit https://www.binance.com/en/gift-card or Download the Binance App from https://binance.com/en/download. Create an account, then tap the 'Profile Icon' on top left corner, tap Gift Card: tap Receive, tap Redeem Crypto, enter Gift Card code (16-digit alphanumeric sequence. For more questions, please see Gift Cards FAQ"
+        }
+    },
+    {
+        "productId": 14625,
+        "productName": "Cornerstone UK",
+        "global": false,
+        "senderFee": 410,
+        "senderFeePercentage": 0,
+        "discountPercentage": 15,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "GBP",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            20,
+            25,
+            30
+        ],
+        "fixedSenderDenominations": [
+            21534.57,
+            26918.22,
+            32301.86
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "20.0": 21534.57,
+            "25.0": 26918.22,
+            "30.0": 32301.86
+        },
+        "metadata": {},
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/cornerstone.png"
+        ],
+        "brand": {
+            "brandId": 186,
+            "brandName": "Cornerstone"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "To redeem go to https://www.cornerstone.co.uk/gifts",
+            "verbose": "To redeem go to https://www.cornerstone.co.uk/gifts"
+        }
+    },
+    {
+        "productId": 14106,
+        "productName": "CryptoVoucher GB",
+        "global": false,
+        "senderFee": 410,
+        "senderFeePercentage": 0,
+        "discountPercentage": 3,
+        "denominationType": "RANGE",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": 30,
+        "maxRecipientDenomination": 100,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": 24600,
+        "maxSenderDenomination": 82000,
+        "fixedRecipientDenominations": [],
+        "fixedSenderDenominations": null,
+        "fixedRecipientToSenderDenominationsMap": null,
+        "metadata": null,
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/d2f17b65-9a68-449e-bf12-b80ded9a06c9.png"
+        ],
+        "brand": {
+            "brandId": 112,
+            "brandName": "Crypto Voucher"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "To redeem, visit https://cryptovouchercard.com",
+            "verbose": "When redeeming the crypto voucher code at https://cryptovouchercard.com, the crypto value of the voucher will be added to your wallet. &#13;Please see the steps below to learn how to redeem and purchase your crypto voucher code: &#13;Log in to your account at: https://cryptovouchercard.com &#13;Enter your gift card PIN code to create an order &#13;Make sure to review the value amount of the crypto currency &#13;Enter your wallet address to finish up purchase &#13;Please note that the cryptocurrency exchange rate will apply when redeeming a voucher code"
+        }
+    },
+    {
+        "productId": 14628,
+        "productName": "Currys PC World UK",
+        "global": false,
+        "senderFee": 410,
+        "senderFeePercentage": 0,
+        "discountPercentage": 0.5,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "GBP",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            10,
+            25,
+            50
+        ],
+        "fixedSenderDenominations": [
+            10767.29,
+            26918.22,
+            53836.44
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "10.0": 10767.29,
+            "25.0": 26918.22,
+            "50.0": 53836.44
+        },
+        "metadata": {},
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/currys-pc-world.png"
+        ],
+        "brand": {
+            "brandId": 188,
+            "brandName": "Currys"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "To redeem the code go to https://www.currys.co.uk/gbuk/index.html",
+            "verbose": "The card can be used as full or part payment. No change or refund will be given; any remaining balance can be used against future purchases.\nYou can Top Up your card any time in store. Currys eGift cards cannot be reloaded."
+        }
+    },
+    {
+        "productId": 17217,
+        "productName": "Dogecoin GB (Binance)",
+        "global": false,
+        "senderFee": 410,
+        "senderFeePercentage": 0,
+        "discountPercentage": 0,
+        "denominationType": "RANGE",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": 5,
+        "maxRecipientDenomination": 100,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": 4100,
+        "maxSenderDenomination": 82000,
+        "fixedRecipientDenominations": [],
+        "fixedSenderDenominations": null,
+        "fixedRecipientToSenderDenominationsMap": null,
+        "metadata": null,
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/binance-doge-08ed62a9-52d3-47d2-9ad8-ae27d0a3f3a2.jpeg"
+        ],
+        "brand": {
+            "brandId": 320,
+            "brandName": "Binance"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "To redeem, visit https://www.binance.com/en/gift-card",
+            "verbose": "To redeem, visit https://www.binance.com/en/gift-card or Download the Binance App from https://binance.com/en/download. Create an account, then tap the 'Profile Icon' on top left corner, tap Gift Card: tap Receive, tap Redeem Crypto, enter Gift Card code (16-digit alphanumeric sequence. For more questions, please see Gift Cards FAQ"
+        }
+    },
+    {
+        "productId": 17364,
+        "productName": "Ethereum GB (Binance)",
+        "global": false,
+        "senderFee": 410,
+        "senderFeePercentage": 0,
+        "discountPercentage": 0,
+        "denominationType": "RANGE",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": 5,
+        "maxRecipientDenomination": 100,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": 4100,
+        "maxSenderDenomination": 82000,
+        "fixedRecipientDenominations": [],
+        "fixedSenderDenominations": null,
+        "fixedRecipientToSenderDenominationsMap": null,
+        "metadata": null,
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/binance-ethereum-dbfffa4f-c0e7-4271-9a3f-81088d14df86.jpeg"
+        ],
+        "brand": {
+            "brandId": 320,
+            "brandName": "Binance"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "To redeem, visit https://www.binance.com/en/gift-card",
+            "verbose": "To redeem, visit https://www.binance.com/en/gift-card or Download the Binance App from https://binance.com/en/download. Create an account, then tap the 'Profile Icon' on top left corner, tap Gift Card: tap Receive, tap Redeem Crypto, enter Gift Card code (16-digit alphanumeric sequence. For more questions, please see Gift Cards FAQ"
+        }
+    },
+    {
+        "productId": 17668,
+        "productName": "Fortnite (Standard Edition) 1000-V-Bucks GB",
+        "global": false,
+        "senderFee": 410,
+        "senderFeePercentage": 1,
+        "discountPercentage": 0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            10
+        ],
+        "fixedSenderDenominations": [
+            8200
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "10.0": 8200
+        },
+        "metadata": {
+            "10.0": "1000-V-Bucks"
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/c940964b-0e6d-4243-8439-a9897dd0dd9d.jpg"
+        ],
+        "brand": {
+            "brandId": 20,
+            "brandName": "Fortnite"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "To redeem your V-Bucks, enter the pin at Fortnite.com/vbuckscard",
+            "verbose": "Redeem a gift card for V-Bucks to use in Fortnite on any supported device! If you are unable to redeem a V-Bucks card and/or access V-Bucks in Fortnite, please contact Epic&&#39;s customer service for assistance at epic games.com/customer-service. &#13;To redeem your V-Bucks, enter the pin at Fortnite.com/vbuckscard &#13;An Epic Games account is required to redeem a V-Bucks Card code. After entering your code on Fortnite.com/vbuckscard, select the platform where you would like the V-Bucks applied. If playing on a console platform (PlayStation Network, Xbox Live, Nintendo Switch) you need to link your Epic Games account to that gaming platform (one time) to redeem your gift card code. The 16 digit code on the back of the card WILL NOT work if redeemed directly through your gaming platform (PlayStation Network, Xbox Live, Nintendo Switch, etc.)"
+        }
+    },
+    {
+        "productId": 18130,
+        "productName": "Fortnite (Standard Edition) 13500-V-Bucks GB",
+        "global": false,
+        "senderFee": 410,
+        "senderFeePercentage": 0,
+        "discountPercentage": 0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            100
+        ],
+        "fixedSenderDenominations": [
+            82000
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "100.0": 82000
+        },
+        "metadata": {
+            "100.0": "13500-V-Bucks"
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/c940964b-0e6d-4243-8439-a9897dd0dd9d.jpg"
+        ],
+        "brand": {
+            "brandId": 20,
+            "brandName": "Fortnite"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "To redeem your V-Bucks, enter the pin at Fortnite.com/vbuckscard",
+            "verbose": "Redeem a gift card for V-Bucks to use in Fortnite on any supported device! If you are unable to redeem a V-Bucks card and/or access V-Bucks in Fortnite, please contact Epic&&#39;s customer service for assistance at epic games.com/customer-service. &#13;To redeem your V-Bucks, enter the pin at Fortnite.com/vbuckscard &#13;An Epic Games account is required to redeem a V-Bucks Card code. After entering your code on Fortnite.com/vbuckscard, select the platform where you would like the V-Bucks applied. If playing on a console platform (PlayStation Network, Xbox Live, Nintendo Switch) you need to link your Epic Games account to that gaming platform (one time) to redeem your gift card code. The 16 digit code on the back of the card WILL NOT work if redeemed directly through your gaming platform (PlayStation Network, Xbox Live, Nintendo Switch, etc.)"
+        }
+    },
+    {
+        "productId": 17822,
+        "productName": "Fortnite (Standard Edition) 2800-V-Bucks GB",
+        "global": false,
+        "senderFee": 410,
+        "senderFeePercentage": 0,
+        "discountPercentage": 0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            25
+        ],
+        "fixedSenderDenominations": [
+            20500
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "25.0": 20500
+        },
+        "metadata": {
+            "25.0": "2800-V-Bucks"
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/c940964b-0e6d-4243-8439-a9897dd0dd9d.jpg"
+        ],
+        "brand": {
+            "brandId": 20,
+            "brandName": "Fortnite"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "To redeem your V-Bucks, enter the pin at Fortnite.com/vbuckscard",
+            "verbose": "Redeem a gift card for V-Bucks to use in Fortnite on any supported device! If you are unable to redeem a V-Bucks card and/or access V-Bucks in Fortnite, please contact Epic&&#39;s customer service for assistance at epic games.com/customer-service. &#13;To redeem your V-Bucks, enter the pin at Fortnite.com/vbuckscard &#13;An Epic Games account is required to redeem a V-Bucks Card code. After entering your code on Fortnite.com/vbuckscard, select the platform where you would like the V-Bucks applied. If playing on a console platform (PlayStation Network, Xbox Live, Nintendo Switch) you need to link your Epic Games account to that gaming platform (one time) to redeem your gift card code. The 16 digit code on the back of the card WILL NOT work if redeemed directly through your gaming platform (PlayStation Network, Xbox Live, Nintendo Switch, etc.)"
+        }
+    },
+    {
+        "productId": 17976,
+        "productName": "Fortnite (Standard Edition) 5000-V-Bucks GB",
+        "global": false,
+        "senderFee": 410,
+        "senderFeePercentage": 0,
+        "discountPercentage": 0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            40
+        ],
+        "fixedSenderDenominations": [
+            32800
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "40.0": 32800
+        },
+        "metadata": {},
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/c940964b-0e6d-4243-8439-a9897dd0dd9d.jpg"
+        ],
+        "brand": {
+            "brandId": 20,
+            "brandName": "Fortnite"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "To redeem your V-Bucks, enter the pin at Fortnite.com/vbuckscard",
+            "verbose": "Redeem a gift card for V-Bucks to use in Fortnite on any supported device! If you are unable to redeem a V-Bucks card and/or access V-Bucks in Fortnite, please contact Epic&&#39;s customer service for assistance at epic games.com/customer-service. &#13;To redeem your V-Bucks, enter the pin at Fortnite.com/vbuckscard &#13;An Epic Games account is required to redeem a V-Bucks Card code. After entering your code on Fortnite.com/vbuckscard, select the platform where you would like the V-Bucks applied. If playing on a console platform (PlayStation Network, Xbox Live, Nintendo Switch) you need to link your Epic Games account to that gaming platform (one time) to redeem your gift card code. The 16 digit code on the back of the card WILL NOT work if redeemed directly through your gaming platform (PlayStation Network, Xbox Live, Nintendo Switch, etc.)"
+        }
+    },
+    {
+        "productId": 3168,
+        "productName": "Free Fire 100 + 10 Diamond GB",
+        "global": false,
+        "senderFee": 410,
+        "senderFeePercentage": 0,
+        "discountPercentage": 2.9,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            1
+        ],
+        "fixedSenderDenominations": [
+            820
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "1.0": 820
+        },
+        "metadata": {},
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/c722d3a0-3e51-421e-a30a-51680a40e6ae.jpg"
+        ],
+        "brand": {
+            "brandId": 22,
+            "brandName": "Free Fire"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Redeem the Free Fire code online at https://shop.garena.sg/app",
+            "verbose": "Only Player ID & Nickname is needed for Garena Free Fire Diamonds top-up. You may stay logged in throughout the transaction, once the top-up is completed, you will receive the Diamonds in your Garena Free Fire account. &#13;Please enter your Player ID & Nickname correctly to avoid delay on Diamonds top-up. &#13;Follow these simple steps to get your diamonds by redeeming the Free Fire code online: https://shop.garena.sg/app &#13;-Select Free Fire &#13;-Log into your account either through linked social media or by entering your Player ID. &#13;-Select Garena Voucher &#13;-Enter the code you received from us. &#13;-The diamonds will then be visible in your Free Fire account."
+        }
+    },
+    {
+        "productId": 3618,
+        "productName": "Free Fire 1080 + 108 Diamond GB",
+        "global": false,
+        "senderFee": 410,
+        "senderFeePercentage": 0,
+        "discountPercentage": 2.9,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            10
+        ],
+        "fixedSenderDenominations": [
+            8200
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "10.0": 8200
+        },
+        "metadata": {},
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/c722d3a0-3e51-421e-a30a-51680a40e6ae.jpg"
+        ],
+        "brand": {
+            "brandId": 22,
+            "brandName": "Free Fire"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Redeem the Free Fire code online at https://shop.garena.sg/app",
+            "verbose": "Only Player ID & Nickname is needed for Garena Free Fire Diamonds top-up. You may stay logged in throughout the transaction, once the top-up is completed, you will receive the Diamonds in your Garena Free Fire account. &#13;Please enter your Player ID & Nickname correctly to avoid delay on Diamonds top-up. &#13;Follow these simple steps to get your diamonds by redeeming the Free Fire code online: https://shop.garena.sg/app &#13;-Select Free Fire &#13;-Log into your account either through linked social media or by entering your Player ID. &#13;-Select Garena Voucher &#13;-Enter the code you received from us. &#13;-The diamonds will then be visible in your Free Fire account."
+        }
+    },
+    {
+        "productId": 3318,
+        "productName": "Free Fire 210 + 21 Diamond GB",
+        "global": false,
+        "senderFee": 410,
+        "senderFeePercentage": 0,
+        "discountPercentage": 2.9,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            2
+        ],
+        "fixedSenderDenominations": [
+            1640
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "2.0": 1640
+        },
+        "metadata": {},
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/c722d3a0-3e51-421e-a30a-51680a40e6ae.jpg"
+        ],
+        "brand": {
+            "brandId": 22,
+            "brandName": "Free Fire"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Redeem the Free Fire code online at https://shop.garena.sg/app",
+            "verbose": "Only Player ID & Nickname is needed for Garena Free Fire Diamonds top-up. You may stay logged in throughout the transaction, once the top-up is completed, you will receive the Diamonds in your Garena Free Fire account. &#13;Please enter your Player ID & Nickname correctly to avoid delay on Diamonds top-up. &#13;Follow these simple steps to get your diamonds by redeeming the Free Fire code online: https://shop.garena.sg/app &#13;-Select Free Fire &#13;-Log into your account either through linked social media or by entering your Player ID. &#13;-Select Garena Voucher &#13;-Enter the code you received from us. &#13;-The diamonds will then be visible in your Free Fire account."
+        }
+    },
+    {
+        "productId": 3768,
+        "productName": "Free Fire 2200 + 220 Diamond GB",
+        "global": false,
+        "senderFee": 410,
+        "senderFeePercentage": 0,
+        "discountPercentage": 2.9,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            20
+        ],
+        "fixedSenderDenominations": [
+            16400
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "20.0": 16400
+        },
+        "metadata": {},
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/c722d3a0-3e51-421e-a30a-51680a40e6ae.jpg"
+        ],
+        "brand": {
+            "brandId": 22,
+            "brandName": "Free Fire"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Redeem the Free Fire code online at https://shop.garena.sg/app",
+            "verbose": "Only Player ID & Nickname is needed for Garena Free Fire Diamonds top-up. You may stay logged in throughout the transaction, once the top-up is completed, you will receive the Diamonds in your Garena Free Fire account. &#13;Please enter your Player ID & Nickname correctly to avoid delay on Diamonds top-up. &#13;Follow these simple steps to get your diamonds by redeeming the Free Fire code online: https://shop.garena.sg/app &#13;-Select Free Fire &#13;-Log into your account either through linked social media or by entering your Player ID. &#13;-Select Garena Voucher &#13;-Enter the code you received from us. &#13;-The diamonds will then be visible in your Free Fire account."
+        }
+    },
+    {
+        "productId": 3468,
+        "productName": "Free Fire 530 + 53 Diamond GB",
+        "global": false,
+        "senderFee": 410,
+        "senderFeePercentage": 0,
+        "discountPercentage": 2.9,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            5
+        ],
+        "fixedSenderDenominations": [
+            4100
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "5.0": 4100
+        },
+        "metadata": {},
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/c722d3a0-3e51-421e-a30a-51680a40e6ae.jpg"
+        ],
+        "brand": {
+            "brandId": 22,
+            "brandName": "Free Fire"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Redeem the Free Fire code online at https://shop.garena.sg/app",
+            "verbose": "Only Player ID & Nickname is needed for Garena Free Fire Diamonds top-up. You may stay logged in throughout the transaction, once the top-up is completed, you will receive the Diamonds in your Garena Free Fire account. &#13;Please enter your Player ID & Nickname correctly to avoid delay on Diamonds top-up. &#13;Follow these simple steps to get your diamonds by redeeming the Free Fire code online: https://shop.garena.sg/app &#13;-Select Free Fire &#13;-Log into your account either through linked social media or by entering your Player ID. &#13;-Select Garena Voucher &#13;-Enter the code you received from us. &#13;-The diamonds will then be visible in your Free Fire account."
+        }
+    },
+    {
+        "productId": 14950,
+        "productName": "Free Fire Diamonds GB",
+        "global": false,
+        "senderFee": 410,
+        "senderFeePercentage": 0,
+        "discountPercentage": 0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            1,
+            2,
+            5,
+            20
+        ],
+        "fixedSenderDenominations": [
+            820,
+            1640,
+            4100,
+            16400
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "1.0": 820,
+            "2.0": 1640,
+            "5.0": 4100,
+            "20.0": 16400
+        },
+        "metadata": {},
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/c722d3a0-3e51-421e-a30a-51680a40e6ae.jpg"
+        ],
+        "brand": {
+            "brandId": 22,
+            "brandName": "Free Fire"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Redeem the Free Fire code online at https://shop.garena.sg/app",
+            "verbose": "Only Player ID & Nickname is needed for Garena Free Fire Diamonds top-up. You may stay logged in throughout the transaction, once the top-up is completed, you will receive the Diamonds in your Garena Free Fire account. &#13;Please enter your Player ID & Nickname correctly to avoid delay on Diamonds top-up. &#13;Follow these simple steps to get your diamonds by redeeming the Free Fire code online: https://shop.garena.sg/app &#13;-Select Free Fire &#13;-Log into your account either through linked social media or by entering your Player ID. &#13;-Select Garena Voucher &#13;-Enter the code you received from us. &#13;-The diamonds will then be visible in your Free Fire account."
+        }
+    },
+    {
+        "productId": 3942,
+        "productName": "Google play UK",
+        "global": false,
+        "senderFee": 410,
+        "senderFeePercentage": 0,
+        "discountPercentage": 0.3,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "GBP",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            10,
+            25,
+            50
+        ],
+        "fixedSenderDenominations": [
+            10767.29,
+            26918.22,
+            53836.44
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "10.0": 10767.29,
+            "25.0": 26918.22,
+            "50.0": 53836.44
+        },
+        "metadata": {},
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/da7374a4-a2b0-45ea-adae-a6ed972c4121.png"
+        ],
+        "brand": {
+            "brandId": 25,
+            "brandName": "Google play"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "To redeem, enter code in the Play Store app or https://play.google.com/store",
+            "verbose": "Use this gift card&#39;s code on Google Play. Any other request for the code may bea scam. &#13;To redeem, enter code in the Play Store app or https://play.google.com/store &#13;See play.google.com/us-card-terms for full terms. &#13;Usable for purchases of eligible items on Google Play only. Not usable for hardware and certain subscriptions. Other limits may apply. No fees or expiration dates.Except as required by law, card is not redeemable for cash or other cards; not reloadable or refundable; cannot be combined with other non-Google Play balances in your Google Payments account, resold, exchanged or transferred for value."
+        }
+    },
+    {
+        "productId": 15148,
+        "productName": "Hussle Voucher UK",
+        "global": false,
+        "senderFee": 410,
+        "senderFeePercentage": 0,
+        "discountPercentage": 0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "GBP",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            10,
+            20
+        ],
+        "fixedSenderDenominations": [
+            10767.29,
+            21534.57
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "10.0": 10767.29,
+            "20.0": 21534.57
+        },
+        "metadata": {},
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/hussle.webp"
+        ],
+        "brand": {
+            "brandId": 228,
+            "brandName": "Hussle"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "To redeem, visit https://www.hussle.com/ or download the app",
+            "verbose": "Visit https://www.hussle.com/ or download the app\nGo to Redeem your voucher and enter your unique voucher\nClick redeem and the voucher will be added to your account\nFollow the normal customer journey to order your gym pass"
+        }
+    },
+    {
+        "productId": 11968,
+        "productName": "Infinifactory GB",
+        "global": false,
+        "senderFee": 410,
+        "senderFeePercentage": 0,
+        "discountPercentage": 29,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            24.99
+        ],
+        "fixedSenderDenominations": [
+            20491.8
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "24.99": 20491.8
+        },
+        "metadata": {},
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/60ea8b3d-da61-4cb4-90ab-31793451e03a.jpg"
+        ],
+        "brand": {
+            "brandId": 75,
+            "brandName": "Infinifactory"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "LOGIN TO YOUR STEAM ACCOUNT, CLICK ON YOUR ACCOUNT NAME -> ACCOUNT DETAILS -> ADD FUNDS TO YOUR STEAM WALLET -> REDEEM A STEAM WALLET CODE",
+            "verbose": "LOGIN TO YOUR STEAM ACCOUNT &#13;2. CLICK ON YOUR ACCOUNT NAME, THEN CLICK ACCOUNT DETAILS &#13;3. CLICK ON &#39;ADD FUNDS TO YOUR STEAM WALLET&#39; &#13;4. CLICK &#39;REDEEM A STEAM WALLET CODE&#39; &#13;5. ENTER YOUR STEAM WALLET GIFT CARD"
+        }
+    },
+    {
+        "productId": 4677,
+        "productName": "Jagex Runescape eCodes GB",
+        "global": false,
+        "senderFee": 410,
+        "senderFeePercentage": 0,
+        "discountPercentage": 7.5,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            10,
+            25
+        ],
+        "fixedSenderDenominations": [
+            8200,
+            20500
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "10.0": 8200,
+            "25.0": 20500
+        },
+        "metadata": {},
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/d28938de-5cd8-482a-8be6-1aede80a77e1.jpg"
+        ],
+        "brand": {
+            "brandId": 30,
+            "brandName": "Jagex Runescape eCodes"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "To redeem, go to http://www.runescape.com/store_locator.ws",
+            "verbose": "To purchase subscriptions and/or in-game items using the RuneScape Card: &#13;1. Go to http://www.runescape.com/store_locator.ws &#13;2. Click &#39;Activate Card&#39; &#13;3. Log in when prompted &#13;4.Enter in your Digital PIN code &#13;5.Select which RuneScape package you want &#13;6.Start Playing! &#13;This prepaid RuneScape PIN may be redeemed only through the website at www.runescape.com and only by US residents. The PIN allows you to purchase subscription and/or in-game items for RuneScape to the value of the PIN purchased on the date the PIN code is redeemed (subject to network and server availability) and is valid as long as Jagex continues to offer RuneScape. The value of subscriptions and in-game items for RuneScape may change over time. Certain RuneScape features are available only if you are over a certain age. &#13;The full value of this PIN is deducted when you redeem the PIN code. No incremental deductions are allowed. You are responsible for loss or unauthorized use of this PIN. Please keep it in a secure location and do not share the PIN code with anyone. Except as required by law, the value of this PIN will not be redeemed for cash or cash equivalents, has no surrender value, may not be returned and will not be replaced or refunded if lost, stolen, destroyed or used without permission. The card is void where prohibited or restricted by law."
+        }
+    },
+    {
+        "productId": 16575,
+        "productName": "Jawaker GB",
+        "global": false,
+        "senderFee": 410,
+        "senderFeePercentage": 0,
+        "discountPercentage": 4,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            1,
+            5,
+            10,
+            20,
+            30,
+            50,
+            100
+        ],
+        "fixedSenderDenominations": [
+            820,
+            4100,
+            8200,
+            16400,
+            24600,
+            41000,
+            82000
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "1.0": 820,
+            "5.0": 4100,
+            "10.0": 8200,
+            "20.0": 16400,
+            "30.0": 24600,
+            "50.0": 41000,
+            "100.0": 82000
+        },
+        "metadata": {},
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/jawaker-ed5f-edc2-adbe.jpeg"
+        ],
+        "brand": {
+            "brandId": 373,
+            "brandName": "Jawaker"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Click on the gear settings icon inside the Jawaker application. You will find the \"Player Number\", copy the ID. Go to www.jawaker.com/en/code and enter the ID and the code then click on Submit.",
+            "verbose": "Click on the gear settings icon inside the Jawaker application. You will find the \"Player Number\", copy the ID. Go to www.jawaker.com/en/code and enter the ID and the code then click on Submit."
+        }
+    },
+    {
+        "productId": 15157,
+        "productName": "JD Sports UK",
+        "global": false,
+        "senderFee": 410,
+        "senderFeePercentage": 0,
+        "discountPercentage": 1.2,
+        "denominationType": "RANGE",
+        "recipientCurrencyCode": "GBP",
+        "minRecipientDenomination": 10,
+        "maxRecipientDenomination": 76.15,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": 10767.29,
+        "maxSenderDenomination": 81992.89,
+        "fixedRecipientDenominations": [],
+        "fixedSenderDenominations": null,
+        "fixedRecipientToSenderDenominationsMap": null,
+        "metadata": null,
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/jd-sports.webp"
+        ],
+        "brand": {
+            "brandId": 234,
+            "brandName": "JD Sports"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "To redeem, visit https://www.jdsports.co.uk/gift-cards/",
+            "verbose": "To redeem, visit https://www.jdsports.co.uk/gift-cards/"
+        }
+    },
+    {
+        "productId": 15346,
+        "productName": "Mobile Legends Diamonds GB",
+        "global": false,
+        "senderFee": 410,
+        "senderFeePercentage": 0,
+        "discountPercentage": 1,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            0.2,
+            0.99,
+            4.99,
+            9.99,
+            19.99,
+            29.99,
+            49.99,
+            99.99
+        ],
+        "fixedSenderDenominations": [
+            164,
+            811.8,
+            4091.8,
+            8191.8,
+            16391.8,
+            24591.8,
+            40991.8,
+            81991.8
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "0.2": 164,
+            "0.99": 811.8,
+            "4.99": 4091.8,
+            "9.99": 8191.8,
+            "19.99": 16391.8,
+            "29.99": 24591.8,
+            "49.99": 40991.8,
+            "99.99": 81991.8
+        },
+        "metadata": {
+            "0.99": "55 Diamonds",
+            "4.99": "275 Diamonds",
+            "9.99": "565 Diamonds",
+            "19.99": "1155 Diamonds",
+            "29.99": "1765 Diamonds",
+            "49.99": "2975 Diamonds",
+            "99.99": "6000 Diamonds"
+        },
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/mobile-legends-diamonds.jpeg"
+        ],
+        "brand": {
+            "brandId": 38,
+            "brandName": "Mobile Legends"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Visit the official Mobile Legends code exchange page https://m.mobilelegends.com/en/codexchange/",
+            "verbose": "Copy your Mobile Legends ID &#13;Open Mobile Legends and copy your game ID. For Game ID, open your profile section in the game. Below the settings, on the right side of the screen, would be the game ID. &#13;Visit the official Mobile Legends code exchange page https://m.mobilelegends.com/en/codexchange/ &#13;Send the verification code &#13;Copy the verification code and paste it on the ML code redemption page &#13;Click redeem and get the reward on your game inbox"
+        }
+    },
+    {
+        "productId": 12118,
+        "productName": "MOLEK-SYNTEZ GB",
+        "global": false,
+        "senderFee": 410,
+        "senderFeePercentage": 0,
+        "discountPercentage": 25,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            9.99
+        ],
+        "fixedSenderDenominations": [
+            8191.8
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "9.99": 8191.8
+        },
+        "metadata": {},
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/aad878ff-a02a-4b19-b961-5287c701199c.jpg"
+        ],
+        "brand": {
+            "brandId": 76,
+            "brandName": "MOLEK-SYNTEZ"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "LOGIN TO YOUR STEAM ACCOUNT, CLICK ON YOUR ACCOUNT NAME -> ACCOUNT DETAILS -> ADD FUNDS TO YOUR STEAM WALLET -> REDEEM A STEAM WALLET CODE",
+            "verbose": "LOGIN TO YOUR STEAM ACCOUNT &#13;2. CLICK ON YOUR ACCOUNT NAME, THEN CLICK ACCOUNT DETAILS &#13;3. CLICK ON &#39;ADD FUNDS TO YOUR STEAM WALLET&#39; &#13;4. CLICK &#39;REDEEM A STEAM WALLET CODE&#39; &#13;5. ENTER YOUR STEAM WALLET GIFT CARD"
+        }
+    },
+    {
+        "productId": 15361,
+        "productName": "National Express UK",
+        "global": false,
+        "senderFee": 410,
+        "senderFeePercentage": 0,
+        "discountPercentage": 2.5,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "GBP",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            5,
+            10,
+            15,
+            20,
+            25,
+            30,
+            35,
+            40,
+            45,
+            50
+        ],
+        "fixedSenderDenominations": [
+            5383.64,
+            10767.29,
+            16150.93,
+            21534.57,
+            26918.22,
+            32301.86,
+            37685.51,
+            43069.15,
+            48452.79,
+            53836.44
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "5.0": 5383.64,
+            "10.0": 10767.29,
+            "15.0": 16150.93,
+            "20.0": 21534.57,
+            "25.0": 26918.22,
+            "30.0": 32301.86,
+            "35.0": 37685.51,
+            "40.0": 43069.15,
+            "45.0": 48452.79,
+            "50.0": 53836.44
+        },
+        "metadata": {},
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/national_express.jpeg"
+        ],
+        "brand": {
+            "brandId": 256,
+            "brandName": "National Express"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "To redeem, visit https://www.nationalexpress.com/en/offers/using-a-voucher",
+            "verbose": "To redeem, visit https://www.nationalexpress.com/en/offers/using-a-voucher"
+        }
+    },
+    {
+        "productId": 14289,
+        "productName": "NetDragon Universal GB",
+        "global": false,
+        "senderFee": 410,
+        "senderFeePercentage": 0,
+        "discountPercentage": 2.5,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            10,
+            25
+        ],
+        "fixedSenderDenominations": [
+            8200,
+            20500
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "10.0": 8200,
+            "25.0": 20500
+        },
+        "metadata": {},
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/v23o9y238p9ubef-39f893hfi3ohf82gbufyeNetDragon.jpeg"
+        ],
+        "brand": {
+            "brandId": 143,
+            "brandName": "NetDragon Universal"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "To redeem, visit https://credit.99.com",
+            "verbose": "This NetDragon Websoft (Hong Kong) Limited TQ Point prepaid card may be redeemed only in the USA and Canada on https://credit.99.com. Internet access (fees may apply), windows PC, and compatible software and hardware are Required. Use of this card signifies acceptance of the terms and conditions, any Rules of conduct, the Privacy Policy and any end-user license agreement applicable to our games and website (Available in full on https://account.99.com/common/read.htm), as they may be amended from time to time without notice. Prepaid cards are not redeemable for cash and cannot be returned for cash refund, exchange, or used to purchase gift certificates or provide allowances and are not for resale (except where required by law). The full value of the card is deducted at PIN redemption. No incremental deductions are allowed."
+        }
+    },
+    {
+        "productId": 15364,
+        "productName": "Netflix UK",
+        "global": false,
+        "senderFee": 410,
+        "senderFeePercentage": 0,
+        "discountPercentage": 1,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "GBP",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            25,
+            50
+        ],
+        "fixedSenderDenominations": [
+            26918.22,
+            53836.44
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "25.0": 26918.22,
+            "50.0": 53836.44
+        },
+        "metadata": {},
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/netflix-05cItXL96l4LE9n02WfDR0h-5.webp"
+        ],
+        "brand": {
+            "brandId": 41,
+            "brandName": "NetFlix"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "To start watching, Go to http://www.netflix.com/code and enter the code",
+            "verbose": "To start watching, Go to http://www.netflix.com/code, Enter the code &#13;Valid only towards the Netflix streaming service via Netflix Account (18+ to be a member), in countries where the service is offered in US dollars. &#13;Entire value credited to your Netflix account upon redemption. &#13;Nonrefundable or redeemable for cash, except where required by law. &#13;Does not expire. No resale."
+        }
+    },
+    {
+        "productId": 15365,
+        "productName": "New Look Gift Card UK",
+        "global": false,
+        "senderFee": 410,
+        "senderFeePercentage": 0,
+        "discountPercentage": 1,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "GBP",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            10,
+            25,
+            50
+        ],
+        "fixedSenderDenominations": [
+            10767.29,
+            26918.22,
+            53836.44
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "10.0": 10767.29,
+            "25.0": 26918.22,
+            "50.0": 53836.44
+        },
+        "metadata": {},
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/new-look.png"
+        ],
+        "brand": {
+            "brandId": 258,
+            "brandName": "New Look"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "To redeem, visit https://www.newlook.com/uk/info/giftcard",
+            "verbose": "To redeem, visit https://www.newlook.com/uk/info/giftcard"
+        }
+    },
+    {
+        "productId": 15403,
+        "productName": "Nintendo eShop Card UK",
+        "global": false,
+        "senderFee": 410,
+        "senderFeePercentage": 0,
+        "discountPercentage": 1.5,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "GBP",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            15,
+            25,
+            50
+        ],
+        "fixedSenderDenominations": [
+            16150.93,
+            26918.22,
+            53836.44
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "15.0": 16150.93,
+            "25.0": 26918.22,
+            "50.0": 53836.44
+        },
+        "metadata": {},
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/5f574207-fe49-40a2-b393-c97dd6d2d4fe.jpg"
+        ],
+        "brand": {
+            "brandId": 42,
+            "brandName": "Nintendo"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Visit nintendo.com/giftcards.",
+            "verbose": "Nintendo eShop Digital Cards are redeemable only through the Nintendo eShop on the Nintendo Switch, Wii U, and Nintendo 3DS family of systems. Digital Card balances can be shared across Nintendo Switch, Wii U and Nintendo 3DS family of systems, but may only be used on a single Nintendo eShop account. To learn more about the Nintendo eShop, visit nintendo.com/giftcards. &#13;Detailed instructions for redeeming by device: &#13;&#13;Nintendo Switch/ Nintendo Switch Lite &#13;1. If you haven&#39;t already, set up an internet connection on your Nintendo Switch system. &#13;2. Make sure your Nintendo Switch system has the latest system update. &#13;3. From the Nintendo Switch HOME Menu, select the Nintendo eShop icon. &#13;4. Select &#39;Enter Code&#39; &#13;5. Enter your download code and click &#39;OK&#39; &#13;Your total balance cannot exceed $200 &#13;&#13;Nintendo 3DS family of systems &#13;1. If you haven&#39;t already, set up an Internet connection to your system and make sure your device has the latest system update. &#13;2. From the HOME Menu, select the Nintendo eShop icon. &#13;3. Scroll left and select &#39;Add Funds&#39; &#13;4. Select &#39;Redeem a Nintendo eShop Card.&#39;5. Tap the box that says, &#39;Enter the activation code&#39;. &#13;6. Use the touch screen to enter the activation code from the Digital Card and tap &#39;OK&#39;. &#13;7.Tap &#39;OK&#39; again. &#13;&#13;Wii U &#13;1. If you haven&#39;t already, set up an Internet connection to your system and make sure your device has the latest system update. &#13;2. From the HOME Menu, select the Nintendo eShop icon. &#13;3. Select &#39;Balance&#39; from the menu on the left side of the screen. &#13;4. Tap button that says &#39;Nintendo eShop Card&#39; &#13;5. Tap the box that says, &#39;Enter the code&#39; &#13;6. Use the touch screen to enter the activation code from the Digital Card and tap &#39;OK&#39; 7. Select &#39;Add&#39;"
+        }
+    },
+    {
+        "productId": 15405,
+        "productName": "Not on The High Street UK",
+        "global": false,
+        "senderFee": 410,
+        "senderFeePercentage": 0,
+        "discountPercentage": 1.2,
+        "denominationType": "RANGE",
+        "recipientCurrencyCode": "GBP",
+        "minRecipientDenomination": 10,
+        "maxRecipientDenomination": 76.15,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": 10767.29,
+        "maxSenderDenomination": 81992.89,
+        "fixedRecipientDenominations": [],
+        "fixedSenderDenominations": null,
+        "fixedRecipientToSenderDenominationsMap": null,
+        "metadata": null,
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/not-on-the-high-street.jpeg"
+        ],
+        "brand": {
+            "brandId": 260,
+            "brandName": "Not on The High Street"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "To redeem code go to https://www.notonthehighstreet.com/",
+            "verbose": "To redeem code go to https://www.notonthehighstreet.com/"
+        }
+    },
+    {
+        "productId": 8625,
+        "productName": "PlayStation UK",
+        "global": false,
+        "senderFee": 410,
+        "senderFeePercentage": 0,
+        "discountPercentage": 5,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "GBP",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            25,
+            35,
+            50
+        ],
+        "fixedSenderDenominations": [
+            26918.22,
+            37685.51,
+            53836.44
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "25.0": 26918.22,
+            "35.0": 37685.51,
+            "50.0": 53836.44
+        },
+        "metadata": {},
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/d9f35de2-e87d-4697-ab23-fb04f9090931.png"
+        ],
+        "brand": {
+            "brandId": 53,
+            "brandName": "PlayStation"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "For redemption instructions, visit https://www.playstation.com/en-us/explore/playstationnetwork/redemption",
+            "verbose": "1. This card may be redeemed through PlayStation Store on a PS4, PS3, and PS Vita system, or a personal computer. &#13;2. Open a Sony Entertainment Network account or use an existing account. &#13;3. From your PS4, PS3, or PS Vita system, or a personal computer, access PlayStation Store. &#13;4. Click the &#39;Redeem Codes&#39; icon. &#13;5. Enter the code at the bottom of this card. Please note that the code is case sensitive and must be entered exactly as displayed. &#13;6. For additional redemption instructions, please visit https://www.playstation.com/en-us/explore/playstationnetwork/redemption &#13;Your use of this PlayStation Plus code constitutes your acceptance of these terms and any additional terms available at http://us.playstation.com/redemption. PSN SM and PlayStation Plus offerings may change without notice."
+        }
+    },
+    {
+        "productId": 9243,
+        "productName": "PUBG Mobile 1500 + 300 UC GB",
+        "global": false,
+        "senderFee": 410,
+        "senderFeePercentage": 0,
+        "discountPercentage": 10,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            25
+        ],
+        "fixedSenderDenominations": [
+            20500
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "25.0": 20500
+        },
+        "metadata": {},
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/400248fb-0e2f-40fd-8c1e-6c5b1d28c5b9.jpg"
+        ],
+        "brand": {
+            "brandId": 55,
+            "brandName": "PUBG Mobile"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Open this website https://www.midasbuy.com/midasbuy/ot/redeem/pubgm",
+            "verbose": "Using your gift card is simple. &#13;To redeem your PUBGMOBILE gift card in a Midasbuy: &#13;Open this website https://www.midasbuy.com/midasbuy/ot/redeem/pubgm &#13;Get corresponding items immediately after redemption. &#13;Redemption code can only be used once."
+        }
+    },
+    {
+        "productId": 8943,
+        "productName": "PUBG Mobile 300 + 25 UC GB",
+        "global": false,
+        "senderFee": 410,
+        "senderFeePercentage": 0,
+        "discountPercentage": 10,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            5
+        ],
+        "fixedSenderDenominations": [
+            4100
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "5.0": 4100
+        },
+        "metadata": {},
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/400248fb-0e2f-40fd-8c1e-6c5b1d28c5b9.jpg"
+        ],
+        "brand": {
+            "brandId": 55,
+            "brandName": "PUBG Mobile"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Open this website https://www.midasbuy.com/midasbuy/ot/redeem/pubgm",
+            "verbose": "Using your gift card is simple. &#13;To redeem your PUBGMOBILE gift card in a Midasbuy: &#13;Open this website https://www.midasbuy.com/midasbuy/ot/redeem/pubgm &#13;Get corresponding items immediately after redemption. &#13;Redemption code can only be used once."
+        }
+    },
+    {
+        "productId": 9393,
+        "productName": "PUBG Mobile 3000 + 850  UC GB",
+        "global": false,
+        "senderFee": 410,
+        "senderFeePercentage": 0,
+        "discountPercentage": 10,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            50
+        ],
+        "fixedSenderDenominations": [
+            41000
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "50.0": 41000
+        },
+        "metadata": {},
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/400248fb-0e2f-40fd-8c1e-6c5b1d28c5b9.jpg"
+        ],
+        "brand": {
+            "brandId": 55,
+            "brandName": "PUBG Mobile"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Open this website https://www.midasbuy.com/midasbuy/ot/redeem/pubgm",
+            "verbose": "Using your gift card is simple. &#13;To redeem your PUBGMOBILE gift card in a Midasbuy: &#13;Open this website https://www.midasbuy.com/midasbuy/ot/redeem/pubgm &#13;Get corresponding items immediately after redemption. &#13;Redemption code can only be used once."
+        }
+    },
+    {
+        "productId": 8793,
+        "productName": "PUBG Mobile 60 UC GB",
+        "global": false,
+        "senderFee": 410,
+        "senderFeePercentage": 0,
+        "discountPercentage": 10,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            0.99
+        ],
+        "fixedSenderDenominations": [
+            811.8
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "0.99": 811.8
+        },
+        "metadata": {},
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/400248fb-0e2f-40fd-8c1e-6c5b1d28c5b9.jpg"
+        ],
+        "brand": {
+            "brandId": 55,
+            "brandName": "PUBG Mobile"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Open this website https://www.midasbuy.com/midasbuy/ot/redeem/pubgm",
+            "verbose": "Using your gift card is simple. &#13;To redeem your PUBGMOBILE gift card in a Midasbuy: &#13;Open this website https://www.midasbuy.com/midasbuy/ot/redeem/pubgm &#13;Get corresponding items immediately after redemption. &#13;Redemption code can only be used once."
+        }
+    },
+    {
+        "productId": 9093,
+        "productName": "PUBG Mobile 600 + 60 UC GB",
+        "global": false,
+        "senderFee": 410,
+        "senderFeePercentage": 0,
+        "discountPercentage": 10,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            10
+        ],
+        "fixedSenderDenominations": [
+            8200
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "10.0": 8200
+        },
+        "metadata": {},
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/400248fb-0e2f-40fd-8c1e-6c5b1d28c5b9.jpg"
+        ],
+        "brand": {
+            "brandId": 55,
+            "brandName": "PUBG Mobile"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Open this website https://www.midasbuy.com/midasbuy/ot/redeem/pubgm",
+            "verbose": "Using your gift card is simple. &#13;To redeem your PUBGMOBILE gift card in a Midasbuy: &#13;Open this website https://www.midasbuy.com/midasbuy/ot/redeem/pubgm &#13;Get corresponding items immediately after redemption. &#13;Redemption code can only be used once."
+        }
+    },
+    {
+        "productId": 9543,
+        "productName": "PUBG Mobile 6000 + 2100 UC GB",
+        "global": false,
+        "senderFee": 410,
+        "senderFeePercentage": 0,
+        "discountPercentage": 10,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            100
+        ],
+        "fixedSenderDenominations": [
+            82000
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "100.0": 82000
+        },
+        "metadata": {},
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/4ac5152f-44fe-40d5-b695-269298dd5e7f.png"
+        ],
+        "brand": {
+            "brandId": 55,
+            "brandName": "PUBG Mobile"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Open this website https://www.midasbuy.com/midasbuy/ot/redeem/pubgm",
+            "verbose": "Using your gift card is simple. &#13;To redeem your PUBGMOBILE gift card in a Midasbuy: &#13;Open this website https://www.midasbuy.com/midasbuy/ot/redeem/pubgm &#13;Get corresponding items immediately after redemption. &#13;Redemption code can only be used once."
+        }
+    },
+    {
+        "productId": 15551,
+        "productName": "PUBG Mobile UC GB",
+        "global": false,
+        "senderFee": 410,
+        "senderFeePercentage": 0,
+        "discountPercentage": 3.5,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            0.99,
+            4.99,
+            9.99,
+            24.99,
+            49.99,
+            99.99
+        ],
+        "fixedSenderDenominations": [
+            811.8,
+            4091.8,
+            8191.8,
+            20491.8,
+            40991.8,
+            81991.8
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "0.99": 811.8,
+            "4.99": 4091.8,
+            "9.99": 8191.8,
+            "24.99": 20491.8,
+            "49.99": 40991.8,
+            "99.99": 81991.8
+        },
+        "metadata": {},
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/pubg-mobile.jpeg"
+        ],
+        "brand": {
+            "brandId": 55,
+            "brandName": "PUBG Mobile"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Open this website https://www.midasbuy.com/midasbuy/ot/redeem/pubgm",
+            "verbose": "Using your gift card is simple. &#13;To redeem your PUBGMOBILE gift card in a Midasbuy: &#13;Open this website https://www.midasbuy.com/midasbuy/ot/redeem/pubgm &#13;Get corresponding items immediately after redemption. &#13;Redemption code can only be used once."
+        }
+    },
+    {
+        "productId": 15606,
+        "productName": "Racingbreaks.com UK",
+        "global": false,
+        "senderFee": 410,
+        "senderFeePercentage": 0,
+        "discountPercentage": 1.2,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "GBP",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            25,
+            50
+        ],
+        "fixedSenderDenominations": [
+            26918.22,
+            53836.44
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "25.0": 26918.22,
+            "50.0": 53836.44
+        },
+        "metadata": {},
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/racingbreaks.webp"
+        ],
+        "brand": {
+            "brandId": 274,
+            "brandName": "Racingbreaks"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "To redeem code go to https://www.racingbreaks.com/",
+            "verbose": "To redeem code go to https://www.racingbreaks.com/"
+        }
+    },
+    {
+        "productId": 4979,
+        "productName": "RIOT ACCESS Latam America GB",
+        "global": false,
+        "senderFee": 410,
+        "senderFeePercentage": 0,
+        "discountPercentage": 3.75,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            5,
+            10,
+            15,
+            25,
+            50,
+            80
+        ],
+        "fixedSenderDenominations": [
+            4100,
+            8200,
+            12300,
+            20500,
+            41000,
+            65600
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "5.0": 4100,
+            "10.0": 8200,
+            "15.0": 12300,
+            "25.0": 20500,
+            "50.0": 41000,
+            "80.0": 65600
+        },
+        "metadata": {},
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/e4432a2a-3c7e-4ae4-957e-109482e51289.png"
+        ],
+        "brand": {
+            "brandId": 33,
+            "brandName": "Riot Access"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Launch the League of Legends client. Click on Store -> Purchase RP -> Prepaid Cards & Riot Pin and enter your code.",
+            "verbose": "1. Launch the League of Legends client or go to signup.na.leagueoflegends.com to create an account. &#13;2. Click on the Store button. &#13;3. Click on the Purchase RP button. &#13;4. Select Prepaid Cards & Riot Pin and enter your code. &#13;5. Click Submit. &#13;We may (and probably will) create updated versions of theseTerms in the future as the Riot Services and applicable laws evolve. When we do, we&#39;ll inform you of the new agreement which will supersede and replace these Terms. You&#39;ll be given an opportunity to review any new agreement we present to you and decide whether you wish to agree to the revised terms. If you accept the new agreement, you&#39;ll be able to continue using the Riot Services. If you decline the new agreement, you won&#39;t be able to use the Riot Services anymore."
+        }
+    },
+    {
+        "productId": 12269,
+        "productName": "SHENZHEN I/O GB",
+        "global": false,
+        "senderFee": 410,
+        "senderFeePercentage": 0,
+        "discountPercentage": 27,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            14.99
+        ],
+        "fixedSenderDenominations": [
+            12291.8
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "14.99": 12291.8
+        },
+        "metadata": {},
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/4461729e-f63b-4b1e-9dd6-d448cdb67bdb.jpg"
+        ],
+        "brand": {
+            "brandId": 79,
+            "brandName": "SHENZHEN"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "LOGIN TO YOUR STEAM ACCOUNT, CLICK ON YOUR ACCOUNT NAME -> ACCOUNT DETAILS -> ADD FUNDS TO YOUR STEAM WALLET -> REDEEM A STEAM WALLET CODE",
+            "verbose": "LOGIN TO YOUR STEAM ACCOUNT &#13;2. CLICK ON YOUR ACCOUNT NAME, THEN CLICK ACCOUNT DETAILS &#13;3. CLICK ON &#39;ADD FUNDS TO YOUR STEAM WALLET&#39; &#13;4. CLICK &#39;REDEEM A STEAM WALLET CODE&#39; &#13;5. ENTER YOUR STEAM WALLET GIFT CARD"
+        }
+    },
+    {
+        "productId": 12419,
+        "productName": "SHENZHEN SOLITAIRE GB",
+        "global": false,
+        "senderFee": 410,
+        "senderFeePercentage": 0,
+        "discountPercentage": 27,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            2.99
+        ],
+        "fixedSenderDenominations": [
+            2451.8
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "2.99": 2451.8
+        },
+        "metadata": {},
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/eccd45f3-340f-4e48-8163-745adef895b8.jpg"
+        ],
+        "brand": {
+            "brandId": 79,
+            "brandName": "SHENZHEN"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "LOGIN TO YOUR STEAM ACCOUNT, CLICK ON YOUR ACCOUNT NAME -> ACCOUNT DETAILS -> ADD FUNDS TO YOUR STEAM WALLET -> REDEEM A STEAM WALLET CODE",
+            "verbose": "LOGIN TO YOUR STEAM ACCOUNT &#13;2. CLICK ON YOUR ACCOUNT NAME, THEN CLICK ACCOUNT DETAILS &#13;3. CLICK ON &#39;ADD FUNDS TO YOUR STEAM WALLET&#39; &#13;4. CLICK &#39;REDEEM A STEAM WALLET CODE&#39; &#13;5. ENTER YOUR STEAM WALLET GIFT CARD"
+        }
+    },
+    {
+        "productId": 17511,
+        "productName": "Shiba Inu coin GB (Binance)",
+        "global": false,
+        "senderFee": 410,
+        "senderFeePercentage": 0,
+        "discountPercentage": 0,
+        "denominationType": "RANGE",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": 5,
+        "maxRecipientDenomination": 100,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": 4100,
+        "maxSenderDenomination": 82000,
+        "fixedRecipientDenominations": [],
+        "fixedSenderDenominations": null,
+        "fixedRecipientToSenderDenominationsMap": null,
+        "metadata": null,
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/binance-shiba-inu-aa0ed81e-8c74-4b44-b2fd-7c84a6b774d5.jpeg"
+        ],
+        "brand": {
+            "brandId": 320,
+            "brandName": "Binance"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "To redeem, visit https://www.binance.com/en/gift-card",
+            "verbose": "To redeem, visit https://www.binance.com/en/gift-card or Download the Binance App from https://binance.com/en/download. Create an account, then tap the 'Profile Icon' on top left corner, tap Gift Card: tap Receive, tap Redeem Crypto, enter Gift Card code (16-digit alphanumeric sequence. For more questions, please see Gift Cards FAQ"
+        }
+    },
+    {
+        "productId": 15786,
+        "productName": "Steam GB",
+        "global": false,
+        "senderFee": 0,
+        "senderFeePercentage": 7.5,
+        "discountPercentage": 0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "GBP",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            5,
+            10,
+            20,
+            25
+        ],
+        "fixedSenderDenominations": [
+            5383.64,
+            10767.29,
+            21534.57,
+            26918.22
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "5.0": 5383.64,
+            "10.0": 10767.29,
+            "20.0": 21534.57,
+            "25.0": 26918.22
+        },
+        "metadata": {},
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/795088c7-da49-4cfa-a631-e1cc2ff6b089.png"
+        ],
+        "brand": {
+            "brandId": 72,
+            "brandName": "Steam"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "LOGIN TO YOUR STEAM ACCOUNT, CLICK ON YOUR ACCOUNT NAME -> ACCOUNT DETAILS -> ADD FUNDS TO YOUR STEAM WALLET -> REDEEM A STEAM WALLET CODE",
+            "verbose": "LOGIN TO YOUR STEAM ACCOUNT &#13;2. CLICK ON YOUR ACCOUNT NAME, THEN CLICK ACCOUNT DETAILS &#13;3. CLICK ON &#39;ADD FUNDS TO YOUR STEAM WALLET&#39; &#13;4. CLICK &#39;REDEEM A STEAM WALLET CODE&#39; &#13;5. ENTER YOUR STEAM WALLET GIFT CARD"
+        }
+    },
+    {
+        "productId": 15814,
+        "productName": "Swarovski UK",
+        "global": false,
+        "senderFee": 410,
+        "senderFeePercentage": 0,
+        "discountPercentage": 1.5,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "GBP",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            20,
+            25,
+            50
+        ],
+        "fixedSenderDenominations": [
+            21534.57,
+            26918.22,
+            53836.44
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "20.0": 21534.57,
+            "25.0": 26918.22,
+            "50.0": 53836.44
+        },
+        "metadata": {},
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/swarovski.jpeg"
+        ],
+        "brand": {
+            "brandId": 288,
+            "brandName": "Swarovski"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "To redeem code go to https://www.swarovski.com/en-FI/.",
+            "verbose": "To redeem code go to https://www.swarovski.com/en-FI/."
+        }
+    },
+    {
+        "productId": 15819,
+        "productName": "The Hotel Card UK",
+        "global": false,
+        "senderFee": 410,
+        "senderFeePercentage": 0,
+        "discountPercentage": 3,
+        "denominationType": "RANGE",
+        "recipientCurrencyCode": "GBP",
+        "minRecipientDenomination": 25,
+        "maxRecipientDenomination": 76.15,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": 26918.22,
+        "maxSenderDenomination": 81992.89,
+        "fixedRecipientDenominations": [],
+        "fixedSenderDenominations": null,
+        "fixedRecipientToSenderDenominationsMap": null,
+        "metadata": null,
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/the-hotel-card.png"
+        ],
+        "brand": {
+            "brandId": 292,
+            "brandName": "The Hotel"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "To redeem code go to https://www.thehotelcard.com.au/",
+            "verbose": "To redeem code go to https://www.thehotelcard.com.au/"
+        }
+    },
+    {
+        "productId": 12569,
+        "productName": "TIS-100 GB",
+        "global": false,
+        "senderFee": 410,
+        "senderFeePercentage": 0,
+        "discountPercentage": 29,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "USD",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            6.99
+        ],
+        "fixedSenderDenominations": [
+            5731.8
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "6.99": 5731.8
+        },
+        "metadata": {},
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/fb8b5ab0-9e96-4828-9965-10b9590b0097.jpg"
+        ],
+        "brand": {
+            "brandId": 80,
+            "brandName": "TIS-100"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "LOGIN TO YOUR STEAM ACCOUNT, CLICK ON YOUR ACCOUNT NAME -> ACCOUNT DETAILS -> ADD FUNDS TO YOUR STEAM WALLET -> REDEEM A STEAM WALLET CODE",
+            "verbose": "LOGIN TO YOUR STEAM ACCOUNT &#13;2. CLICK ON YOUR ACCOUNT NAME, THEN CLICK ACCOUNT DETAILS &#13;3. CLICK ON &#39;ADD FUNDS TO YOUR STEAM WALLET&#39; &#13;4. CLICK &#39;REDEEM A STEAM WALLET CODE&#39; &#13;5. ENTER YOUR STEAM WALLET GIFT CARD"
+        }
+    },
+    {
+        "productId": 15857,
+        "productName": "Xbox UK",
+        "global": false,
+        "senderFee": 410,
+        "senderFeePercentage": 0,
+        "discountPercentage": 1.5,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "GBP",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            5,
+            10,
+            15,
+            20,
+            25,
+            50
+        ],
+        "fixedSenderDenominations": [
+            5383.64,
+            10767.29,
+            16150.93,
+            21534.57,
+            26918.22,
+            53836.44
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "5.0": 5383.64,
+            "10.0": 10767.29,
+            "15.0": 16150.93,
+            "20.0": 21534.57,
+            "25.0": 26918.22,
+            "50.0": 53836.44
+        },
+        "metadata": {},
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/28c35815-9fdc-4d29-91c6-73e6e3b2303d.png"
+        ],
+        "brand": {
+            "brandId": 93,
+            "brandName": "Xbox"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "Redeem at https://www.microsoft.com/redeem",
+            "verbose": "Redeem at https://www.microsoft.com/redeem &#13;To play on PC: after redeeming, follow instructions at https://www.xbox.com/pcgamesplan. &#13;Game titles and number vary overtime and by country. If your membership terminates or a game is removed, you must reactivate your membership or buy the game to continue using any add-ons or items purchased for a game. ISP fees and age restrictions apply. Except as required by law, codes are nonrefundable."
+        }
+    },
+    {
+        "productId": 16081,
+        "productName": "Zalando UK",
+        "global": false,
+        "senderFee": 410,
+        "senderFeePercentage": 0,
+        "discountPercentage": 0,
+        "denominationType": "FIXED",
+        "recipientCurrencyCode": "GBP",
+        "minRecipientDenomination": null,
+        "maxRecipientDenomination": null,
+        "senderCurrencyCode": "NGN",
+        "minSenderDenomination": null,
+        "maxSenderDenomination": null,
+        "fixedRecipientDenominations": [
+            10,
+            25,
+            50
+        ],
+        "fixedSenderDenominations": [
+            10767.29,
+            26918.22,
+            53836.44
+        ],
+        "fixedRecipientToSenderDenominationsMap": {
+            "10.0": 10767.29,
+            "25.0": 26918.22,
+            "50.0": 53836.44
+        },
+        "metadata": {},
+        "logoUrls": [
+            "https://cdn.reloadly.com/giftcards/zalando.webp"
+        ],
+        "brand": {
+            "brandId": 308,
+            "brandName": "Zalando"
+        },
+        "country": {
+            "isoName": "GB",
+            "name": "United Kingdom",
+            "flagUrl": "https://s3.amazonaws.com/rld-flags/gb.svg"
+        },
+        "redeemInstruction": {
+            "concise": "To redeem, visit https://en.zalando.de/myaccount/giftvouchers/",
+            "verbose": "There are two ways to redeem your Zalando gift card:\n1. As balance in your account:\nVisit https://en.zalando.de/myaccount/giftvouchers/\nEnter your gift card's code in the Menu item 'My Vouchers' ('Meine Gutscheine') and click on 'Redeem' ('Einlsen'). The amount will be credited to your account balance and you can redeem it when placing your next order.\n2. At checkout: You can also enter your gift card code in the voucher field that appears at checkout. Dont forget to confirm by clicking on the button 'Redeem'. The voucher amount is then applied to the total amount in the shopping basket."
+        }
+    }
+]
