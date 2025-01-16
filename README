@@ -37,28 +37,7 @@ API Communication
 Fetches data dynamically for virtual accounts, VTU, gift cards, and crypto services.
 Dynamic Rendering
 Optimized for smooth rendering of large data sets, including transaction histories and account details.
-Setup Instructions
-Clone the repository:
 
-bash
-Copy
-Edit
-git clone [repository-link]  
-Install dependencies:
-
-bash
-Copy
-Edit
-npm install  
-Configure the .env file:
-
-Add API keys and backend URLs.
-Start the development server:
-
-bash
-Copy
-Edit
-npm run start  
 
 
 
