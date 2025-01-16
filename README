@@ -62,7 +62,6 @@ npm run start
 Demo
 Screenshots
 
-![Finance App Screenshot](./IMG_0763.jpg)
 
 
 Backend Information
@@ -74,3 +73,7 @@ We welcome contributions!
 Fork the repository.
 Create a new branch.
 Submit a pull request with your changes.
+
+
+
+![Finance App Screenshot](IMG_0763.jpg)
